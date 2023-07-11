@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi there 👋 I'm Davide!
 
-<!--
-**Daviduxx/Daviduxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I live in Turin, IT 🇮🇹, I love writing coloured codes in dark backgrounds.
+I'm actually attending an hard (very hard 🥵) coding bootcamp called EPICODE. These are the tech skills I've learned since I begun:
 
-Here are some ideas to get you started:
+• HTML
+• CSS
+• SASS
+• BOOTSTRAP
+• JAVASCRIPT
+• TYPESCRIPT
+• ANGULAR
+• Not trusting those ones who use light themes 😅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently looking for my first oppurtunity in the IT Industry, so if you find interesting my repos, you can get in touch with me here: borotto.davide@gmail.com
+
+When I'm not working in front of my PC, I love to do many things:
+
+Scuba Diving |
+Climbing |
+Writing Music |
+Trekking |
+Traveling
