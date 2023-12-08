@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently attending EPICODE bootcamp<br>🎯 Goals: start my journey through development working in the IT industry<br>🎲 Fun fact: I don't trust those ones who use light theme<br>🚀 More: I also love mountain trekking, scuba diving and aerospace</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently working as Web Developer<br>🎯 Goals: become a backend ninja<br>🎲 Fun fact: I don't trust those ones who use light theme<br>🚀 More: I also love mountain trekking, scuba diving and aerospace</p>
 
 ###
 
